@@ -8,7 +8,7 @@ Comment=Suckless Browser
 # The path to the folder in which the executable is run
 Path=/usr/bin/
 # The executable of the application, possibly with arguments.
-Exec=surf -fgNS -u "Mozilla/5.0 (PlayStation; PlayStation 5/5.02) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+Exec=surf -fgNS -u "Opera/9.30 (Nintendo Wii; U; ; 3642; fr)"
 # The name of the icon that will be used to display this entry
 Icon=surf
 # Describes whether this application needs to be run in a terminal or not
